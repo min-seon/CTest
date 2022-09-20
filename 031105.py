@@ -1,3 +1,4 @@
+#볼링볼 고르기
 n, m = map(int, input().split(' '))
 arr=map(int, input().split(' '))
 result=0

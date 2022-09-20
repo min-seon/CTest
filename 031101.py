@@ -1,3 +1,4 @@
+#모험가길드
 n=int(input())
 arr=map(int,input().split(' '))
 
